@@ -1,1 +1,3 @@
 # Save-the-Prisoner---Algo
+
+This code solve the "Save the Prisoner" problem, where the task is to determine which prisoner will receive the last candy in a circle of n prisoners, after distributing m candies starting from prisoner s. The core function saveThePrisoner is yet to be implemented, but it will compute the prisoner who receives the last candy based on the given parameters. The main function reads multiple test cases, processes the inputs (removes whitespace, splits them into integers), and calls saveThePrisoner to compute and output the results. Helper functions ltrim, rtrim, and split ensure that the input strings are properly cleaned and parsed.
